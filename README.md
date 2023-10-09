@@ -67,4 +67,4 @@ mbtcp.unit_id
 Attack_label
 Attack_type
 
-Dataset Link: https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot/data
+Dataset link: https://www.kaggle.com/datasets/mohamedamineferrag/edgeiiotset-cyber-security-dataset-of-iot-iiot/data
